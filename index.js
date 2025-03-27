@@ -1,3 +1,6 @@
-console.log("hello");
+const name = "Aryan";
+const age = "22";
 
-console.log("Aryan");
+function sayName() {
+  console.log("My name is " + name);
+}
